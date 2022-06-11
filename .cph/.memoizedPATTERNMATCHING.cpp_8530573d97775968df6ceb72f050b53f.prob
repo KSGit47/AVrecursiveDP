@@ -1,1 +1,0 @@
-{"name":"Local: memoizedPATTERNMATCHING","url":"d:\\cpp\\GITREPO1\\AVrecursiveDP\\memoizedPATTERNMATCHING.cpp","tests":[{"id":1654969192262,"input":"abcdeghijo\nabcd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\GITREPO1\\AVrecursiveDP\\memoizedPATTERNMATCHING.cpp","group":"local","local":true}
